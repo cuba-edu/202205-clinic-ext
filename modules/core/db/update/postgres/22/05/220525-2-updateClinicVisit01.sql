@@ -1,0 +1,1 @@
+update CLINIC_VISIT set DTYPE = 'ext_VisitExt' where DTYPE is null ;
